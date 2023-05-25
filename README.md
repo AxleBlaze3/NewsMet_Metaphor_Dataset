@@ -6,5 +6,5 @@
 
 * custom_test_sets directory holds test set 1 and test set 2 as mentioned in the paper.
 
-* train_val_test_gold_plus directory consists of the standard splits. There is no overlap between the test set and other sets. Gold plus samples are indentified by the sample_type column.
+* train_val_test_gold_plus directory consists of the standard splits. There is no overlap between the test set and other sets. Gold plus samples are identified by the sample_type column.
 
