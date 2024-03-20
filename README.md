@@ -8,3 +8,5 @@
 
 * train_val_test_gold_plus directory consists of the standard splits. There is no overlap between the test set and other sets. Gold plus samples are identified by the sample_type column.
 
+* Label 1: metaphorical, Label 0: literal.
+
